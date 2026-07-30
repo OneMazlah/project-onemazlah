@@ -8,23 +8,22 @@ The public website is available at
 
 ## Current status
 
-No Project or Project Journey has been published to this repository yet.
+The first structured connectivity-test Project and Journey are published. They
+verify that the public website can read content directly from this repository.
 
-Content will be added through OneMazlah Studio Dashboard after it has been
-reviewed and explicitly approved for online publication.
-
-## Planned structure
+## Public content structure
 
 ```text
 projects/
+  index.json
   <project-namecode>/
-    README.md
+    project.json
     journeys/
-      <journey-post>.md
+      <journey-post>.json
 ```
 
-The Project namecode is the stable technical identifier used by the website,
-local folder and future public repository path.
+`projects/index.json` is the public website catalogue. The Project namecode is
+the stable technical identifier used by the website URL and repository folder.
 
 ## Content licence
 

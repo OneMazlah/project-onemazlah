@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "signal-lantern-2026-07-30-first-signal",
+  "project": "signal-lantern",
+  "date": "2026-07-30",
+  "updatedAt": "2026-07-30T21:15:00+08:00",
+  "status": "in-development",
+  "title": "First public signal",
+  "summary": "Published the first structured Project and Journey record from the GitHub content repository."
+}
