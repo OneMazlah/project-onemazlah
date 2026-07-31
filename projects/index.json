@@ -1,6 +1,47 @@
 {
     "projects": [
+        {
+            "category": "Tools",
+            "description": "Description gui tool script",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-31",
+                    "id": "7afd3fe6-540e-46a6-8d4b-05671ba94f36",
+                    "status": "completed",
+                    "summary": "good bye",
+                    "title": "stop project",
+                    "updatedAt": "2026-07-31T11:28:27.797Z"
+                },
+                {
+                    "date": "2026-07-31",
+                    "id": "6a83313f-3bb3-43cc-94dd-57780878ddec",
+                    "status": "released",
+                    "summary": "Description done project blah2",
+                    "title": "done project",
+                    "updatedAt": "2026-07-31T11:27:50.680Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitool/journeys",
+            "projectCode": "guitool",
+            "slug": "guitool",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitool",
+            "status": "completed",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "guitool"
+                },
+                {
+                    "name": "tool",
+                    "value": "script"
+                }
+            ],
+            "title": "gui tool script",
+            "type": "Project",
+            "updatedAt": "2026-07-31T11:28:27.797Z"
+        }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-07-31T11:19:04.057Z"
+    "updatedAt": "2026-07-31T11:28:42.115Z"
 }
