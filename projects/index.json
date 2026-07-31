@@ -38,41 +38,8 @@
             "title": "Signal Lantern",
             "type": "Project",
             "updatedAt": "2026-07-30T21:15:00+08:00"
-        },
-        {
-            "category": "Tools",
-            "description": "this only new project script tool",
-            "featured": false,
-            "journal": [
-                {
-                    "date": "2026-07-31",
-                    "id": "50864235-8611-466b-b183-cd283c374f07",
-                    "status": "released",
-                    "summary": "done making tool script",
-                    "title": "complete",
-                    "updatedAt": "2026-07-31T10:08:54.760Z"
-                }
-            ],
-            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/controlui/journeys",
-            "projectCode": "controlui",
-            "slug": "controlui",
-            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/controlui",
-            "status": "released",
-            "tags": [
-                {
-                    "name": "Project",
-                    "value": "controlui"
-                },
-                {
-                    "name": "tool",
-                    "value": "script"
-                }
-            ],
-            "title": "controller script tool",
-            "type": "Project",
-            "updatedAt": "2026-07-31T10:08:54.760Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-07-31T10:44:41.175Z"
+    "updatedAt": "2026-07-31T11:05:20.949Z"
 }
