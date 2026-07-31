@@ -71,8 +71,41 @@
             "title": "controller script tool",
             "type": "Project",
             "updatedAt": "2026-07-31T10:08:54.760Z"
+        },
+        {
+            "category": "Tools",
+            "description": "this make gui for windows project",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-31",
+                    "id": "4dd9ba03-e12f-4029-9175-72bc1048661b",
+                    "status": "in-development",
+                    "summary": "use qt6 and blah2",
+                    "title": "on making",
+                    "updatedAt": "2026-07-31T10:12:22.352Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitoolwin/journeys",
+            "projectCode": "guitoolwin",
+            "slug": "guitoolwin",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitoolwin",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "guitoolwin"
+                },
+                {
+                    "name": "platform",
+                    "value": "windows"
+                }
+            ],
+            "title": "gui tool for windows",
+            "type": "Project",
+            "updatedAt": "2026-07-31T10:12:22.352Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-07-31T10:08:58.101Z"
+    "updatedAt": "2026-07-31T10:14:04.621Z"
 }
