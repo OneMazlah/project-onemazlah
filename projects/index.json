@@ -1,36 +1,78 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-07-30T21:15:00+08:00",
-  "projects": [
-    {
-      "slug": "signal-lantern",
-      "title": "Signal Lantern",
-      "category": "Tools",
-      "description": "A small connectivity test project used to verify publishing from GitHub to the OneMazlah website.",
-      "type": "Project",
-      "projectCode": "signal-lantern",
-      "updatedAt": "2026-07-30T21:15:00+08:00",
-      "platform": "Windows",
-      "status": "in-development",
-      "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/signal-lantern",
-      "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/signal-lantern/journeys",
-      "tags": [
-        { "name": "OS", "value": "Windows" },
-        { "name": "Language", "value": "C++" },
-        { "name": "Purpose", "value": "Connectivity Test" }
-      ],
-      "journal": [
+    "projects": [
         {
-          "id": "signal-lantern-2026-07-30-first-signal",
-          "date": "2026-07-30",
-          "updatedAt": "2026-07-30T21:15:00+08:00",
-          "status": "in-development",
-          "title": "First public signal",
-          "summary": "Published the first structured Project and Journey record from the GitHub content repository."
+            "category": "Tools",
+            "description": "A small connectivity test project used to verify publishing from GitHub to the OneMazlah website.",
+            "featured": true,
+            "featuredOrder": 1,
+            "journal": [
+                {
+                    "date": "2026-07-30",
+                    "id": "signal-lantern-2026-07-30-first-signal",
+                    "status": "in-development",
+                    "summary": "Published the first structured Project and Journey record from the GitHub content repository.",
+                    "title": "First public signal",
+                    "updatedAt": "2026-07-30T21:15:00+08:00"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/signal-lantern/journeys",
+            "platform": "Windows",
+            "projectCode": "signal-lantern",
+            "slug": "signal-lantern",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/signal-lantern",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "OS",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "Purpose",
+                    "value": "Connectivity Test"
+                }
+            ],
+            "title": "Signal Lantern",
+            "type": "Project",
+            "updatedAt": "2026-07-30T21:15:00+08:00"
+        },
+        {
+            "category": "Tools",
+            "description": "this only new project script tool",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-31",
+                    "id": "50864235-8611-466b-b183-cd283c374f07",
+                    "status": "released",
+                    "summary": "done making tool script",
+                    "title": "complete",
+                    "updatedAt": "2026-07-31T10:08:54.760Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/controlui/journeys",
+            "projectCode": "controlui",
+            "slug": "controlui",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/controlui",
+            "status": "released",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "controlui"
+                },
+                {
+                    "name": "tool",
+                    "value": "script"
+                }
+            ],
+            "title": "controller script tool",
+            "type": "Project",
+            "updatedAt": "2026-07-31T10:08:54.760Z"
         }
-      ],
-      "featured": true,
-      "featuredOrder": 1
-    }
-  ]
+    ],
+    "schemaVersion": 1,
+    "updatedAt": "2026-07-31T10:08:58.101Z"
 }
