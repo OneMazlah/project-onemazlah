@@ -1,6 +1,39 @@
 {
     "projects": [
+        {
+            "category": "Games",
+            "description": "test",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-08-01",
+                    "id": "a7078d2f-c650-4faf-9c51-c593963a7439",
+                    "status": "planning",
+                    "summary": "yes",
+                    "title": "yes",
+                    "updatedAt": "2026-08-01T09:38:53.000Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/codeproject123/journeys",
+            "projectCode": "codeproject123",
+            "slug": "codeproject123",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/codeproject123",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "codeproject123"
+                },
+                {
+                    "name": "test",
+                    "value": "123"
+                }
+            ],
+            "title": "test",
+            "type": "Project",
+            "updatedAt": "2026-08-01T09:38:53.000Z"
+        }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-07-31T18:07:48.874Z"
+    "updatedAt": "2026-08-01T09:39:54.959Z"
 }
