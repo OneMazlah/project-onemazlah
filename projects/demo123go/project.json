@@ -1,0 +1,28 @@
+{
+    "category": "Engines",
+    "date": "2026-08-02",
+    "description": "A temporary code for a future local folder or GitHub repository. It can be changed before the project receives its official name. Local website path:",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/demo123go/journeys",
+    "journeyFiles": [
+        "journeys/2026-08-02-journey2.json"
+    ],
+    "projectCode": "demo123go",
+    "schemaVersion": 1,
+    "slug": "demo123go",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/demo123go",
+    "status": "blocked",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "demo123go"
+        },
+        {
+            "name": "os",
+            "value": "windows"
+        }
+    ],
+    "title": "project2go",
+    "type": "Project",
+    "updatedAt": "2026-08-02T14:16:13.015Z"
+}
