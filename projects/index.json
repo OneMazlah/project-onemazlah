@@ -1,39 +1,6 @@
 {
     "projects": [
-        {
-            "category": "Engines",
-            "description": "A temporary code for a future local folder or GitHub repository. It can be changed before the project receives its official name. Local website path:",
-            "featured": false,
-            "journal": [
-                {
-                    "date": "2026-08-02",
-                    "id": "0d28abc5-5320-4733-85a2-36d3b9734ecb",
-                    "status": "blocked",
-                    "summary": "A temporary code for a future local folder or GitHub repository. It can be changed before the project receives its official name. Local website path:",
-                    "title": "journey2",
-                    "updatedAt": "2026-08-02T14:16:13.015Z"
-                }
-            ],
-            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/demo123go/journeys",
-            "projectCode": "demo123go",
-            "slug": "demo123go",
-            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/demo123go",
-            "status": "blocked",
-            "tags": [
-                {
-                    "name": "Project",
-                    "value": "demo123go"
-                },
-                {
-                    "name": "os",
-                    "value": "windows"
-                }
-            ],
-            "title": "project2go",
-            "type": "Project",
-            "updatedAt": "2026-08-02T14:16:13.015Z"
-        }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-02T16:37:00.152Z"
+    "updatedAt": "2026-08-02T21:52:02.543Z"
 }
