@@ -1,39 +1,6 @@
 {
     "projects": [
-        {
-            "category": "Games",
-            "description": "A temporary code for a future local folder or GitHub repository. It can be changed before the project receives its official name. Local website path:",
-            "featured": false,
-            "journal": [
-                {
-                    "date": "2026-08-02",
-                    "id": "dc2387ff-4ee4-447a-a8ce-232b7fd955fa",
-                    "status": "planning",
-                    "summary": "A temporary code for a future local folder or GitHub repository. It can be changed before the project receives its official name. Local website path:",
-                    "title": "journey1",
-                    "updatedAt": "2026-08-02T14:15:15.815Z"
-                }
-            ],
-            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitoolwin/journeys",
-            "projectCode": "guitoolwin",
-            "slug": "guitoolwin",
-            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/guitoolwin",
-            "status": "planning",
-            "tags": [
-                {
-                    "name": "Project",
-                    "value": "guitoolwin"
-                },
-                {
-                    "name": "os",
-                    "value": "windows"
-                }
-            ],
-            "title": "project1go",
-            "type": "Project",
-            "updatedAt": "2026-08-02T14:15:15.815Z"
-        }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-02T14:15:16.824Z"
+    "updatedAt": "2026-08-02T16:09:20.402Z"
 }
