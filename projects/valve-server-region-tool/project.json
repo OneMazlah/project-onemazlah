@@ -5,13 +5,14 @@
     "featured": false,
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool/journeys",
     "journeyFiles": [
+        "journeys/2026-06-18-version-1-0-stable-release.json",
         "journeys/2026-06-18-building-the-server-region-tool.json"
     ],
     "projectCode": "valve-server-region-tool",
     "schemaVersion": 1,
     "slug": "valve-server-region-tool",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool",
-    "status": "in-development",
+    "status": "released",
     "tags": [
         {
             "name": "Project",
@@ -36,5 +37,5 @@
     ],
     "title": "Valve Server Region Tool",
     "type": "Project",
-    "updatedAt": "2026-08-03T10:51:39.807Z"
+    "updatedAt": "2026-08-03T11:15:36.530Z"
 }

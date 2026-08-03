@@ -268,6 +268,14 @@
             "journal": [
                 {
                     "date": "2026-06-18",
+                    "id": "45fd0be4-3243-4f83-a245-e75e8881d3a1",
+                    "status": "released",
+                    "summary": "Version 1.0 was released as the first stable build, with Valve server ping testing, region comparison, empty-port search and forced lobby command generation ready for regular use.",
+                    "title": "Version 1.0 Stable Release",
+                    "updatedAt": "2026-08-03T11:15:36.530Z"
+                },
+                {
+                    "date": "2026-06-18",
                     "id": "034112ac-9c4e-4da1-8b0c-1beaaa471f1a",
                     "status": "in-development",
                     "summary": "Development began with ping testing across Valve server regions, region comparison and the first workflow for selecting a server and preparing a forced lobby command.",
@@ -279,7 +287,7 @@
             "projectCode": "valve-server-region-tool",
             "slug": "valve-server-region-tool",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool",
-            "status": "in-development",
+            "status": "released",
             "tags": [
                 {
                     "name": "Project",
@@ -304,9 +312,9 @@
             ],
             "title": "Valve Server Region Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T10:51:39.807Z"
+            "updatedAt": "2026-08-03T11:15:36.530Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T10:51:40.794Z"
+    "updatedAt": "2026-08-03T11:15:37.654Z"
 }

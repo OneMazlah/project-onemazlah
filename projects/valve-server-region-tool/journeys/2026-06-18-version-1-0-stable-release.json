@@ -1,0 +1,10 @@
+{
+    "date": "2026-06-18",
+    "id": "45fd0be4-3243-4f83-a245-e75e8881d3a1",
+    "project": "valve-server-region-tool",
+    "schemaVersion": 1,
+    "status": "released",
+    "summary": "Version 1.0 was released as the first stable build, with Valve server ping testing, region comparison, empty-port search and forced lobby command generation ready for regular use.",
+    "title": "Version 1.0 Stable Release",
+    "updatedAt": "2026-08-03T11:15:36.530Z"
+}
