@@ -1,0 +1,40 @@
+{
+    "category": "Games",
+    "date": "2026-08-03",
+    "description": "A single-player first-person shooter focused on historical battles, survival and military stories from Southeast Asia during World War II.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ww2-fps-game/journeys",
+    "journeyFiles": [
+        "journeys/2026-07-03-choosing-the-development-engine.json"
+    ],
+    "projectCode": "ww2-fps-game",
+    "schemaVersion": 1,
+    "slug": "ww2-fps-game",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ww2-fps-game",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "ww2-fps-game"
+        },
+        {
+            "name": "Genre",
+            "value": "First-Person Shooter"
+        },
+        {
+            "name": "Game Mode",
+            "value": "Single-Player"
+        },
+        {
+            "name": "Programming Language:",
+            "value": "C#"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        }
+    ],
+    "title": "Southeast Asian World War II FPS",
+    "type": "Project",
+    "updatedAt": "2026-08-03T10:39:18.110Z"
+}

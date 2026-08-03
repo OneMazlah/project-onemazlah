@@ -1,0 +1,10 @@
+{
+    "date": "2026-07-03",
+    "id": "fe171981-377f-49d1-8495-a4dc837e29e4",
+    "project": "ww2-fps-game",
+    "schemaVersion": 1,
+    "status": "planning",
+    "summary": "Early planning focused on deciding whether to build the game with Unreal Engine, Unity or Godot. The final engine had not been chosen yet.",
+    "title": "Choosing the Development Engine",
+    "updatedAt": "2026-08-03T10:39:18.110Z"
+}

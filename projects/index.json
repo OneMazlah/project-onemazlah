@@ -215,8 +215,53 @@
             "title": "Lightweight Windows Game Engine",
             "type": "Project",
             "updatedAt": "2026-08-03T10:27:32.951Z"
+        },
+        {
+            "category": "Games",
+            "description": "A single-player first-person shooter focused on historical battles, survival and military stories from Southeast Asia during World War II.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-03",
+                    "id": "fe171981-377f-49d1-8495-a4dc837e29e4",
+                    "status": "planning",
+                    "summary": "Early planning focused on deciding whether to build the game with Unreal Engine, Unity or Godot. The final engine had not been chosen yet.",
+                    "title": "Choosing the Development Engine",
+                    "updatedAt": "2026-08-03T10:39:18.110Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ww2-fps-game/journeys",
+            "projectCode": "ww2-fps-game",
+            "slug": "ww2-fps-game",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ww2-fps-game",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "ww2-fps-game"
+                },
+                {
+                    "name": "Genre",
+                    "value": "First-Person Shooter"
+                },
+                {
+                    "name": "Game Mode",
+                    "value": "Single-Player"
+                },
+                {
+                    "name": "Programming Language:",
+                    "value": "C#"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                }
+            ],
+            "title": "Southeast Asian World War II FPS",
+            "type": "Project",
+            "updatedAt": "2026-08-03T10:39:18.110Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T10:27:33.935Z"
+    "updatedAt": "2026-08-03T10:39:19.106Z"
 }
