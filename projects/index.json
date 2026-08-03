@@ -165,6 +165,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-08-03",
+                    "id": "d1468814-9b5d-433e-881a-8e051ff0f39a",
+                    "status": "in-development",
+                    "summary": "Development moved into the engine foundation, including rendering, memory management, file access, job scheduling and deterministic runtime systems.",
+                    "title": "Building the Core Systems",
+                    "updatedAt": "2026-08-03T10:23:00.354Z"
+                },
+                {
                     "date": "2026-04-11",
                     "id": "78e6ba34-58ce-4192-907b-8e79ffe15e37",
                     "status": "planning",
@@ -177,7 +185,7 @@
             "projectCode": "goldengine-project",
             "slug": "goldengine-project",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project",
-            "status": "planning",
+            "status": "in-development",
             "tags": [
                 {
                     "name": "Project",
@@ -198,9 +206,9 @@
             ],
             "title": "Lightweight Windows Game Engine",
             "type": "Project",
-            "updatedAt": "2026-08-03T10:18:42.326Z"
+            "updatedAt": "2026-08-03T10:23:00.354Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T10:18:43.440Z"
+    "updatedAt": "2026-08-03T10:23:01.318Z"
 }
