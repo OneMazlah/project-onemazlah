@@ -313,8 +313,53 @@
             "title": "Valve Server Region Tool",
             "type": "Project",
             "updatedAt": "2026-08-03T11:15:36.530Z"
+        },
+        {
+            "category": "Tools",
+            "description": "A Windows desktop application for searching available Left 4 Dead 2 lobbies, applying detailed filters and joining suitable matches more quickly than the standard in-game browser.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-06-05",
+                    "id": "3345a00b-580c-4874-ab98-2ba329e5643d",
+                    "status": "planning",
+                    "summary": "Planning focused on how the tool should search Steam lobbies, apply useful filters and help players find suitable matches without relying only on the in-game browser.",
+                    "title": "Defining the Lobby Search Workflow",
+                    "updatedAt": "2026-08-03T11:28:06.457Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2/journeys",
+            "projectCode": "lobbybrowserl4d2",
+            "slug": "lobbybrowserl4d2",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "lobbybrowserl4d2"
+                },
+                {
+                    "name": "Game",
+                    "value": "Left 4 Dead 2"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows, Linux"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "UI Framework",
+                    "value": "Qt 6"
+                }
+            ],
+            "title": "Multiplayer Lobby Search Tool",
+            "type": "Project",
+            "updatedAt": "2026-08-03T11:28:06.457Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:15:37.654Z"
+    "updatedAt": "2026-08-03T11:28:07.452Z"
 }

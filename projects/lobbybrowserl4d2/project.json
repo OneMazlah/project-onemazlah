@@ -1,0 +1,40 @@
+{
+    "category": "Tools",
+    "date": "2026-08-03",
+    "description": "A Windows desktop application for searching available Left 4 Dead 2 lobbies, applying detailed filters and joining suitable matches more quickly than the standard in-game browser.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2/journeys",
+    "journeyFiles": [
+        "journeys/2026-06-05-defining-the-lobby-search-workflow.json"
+    ],
+    "projectCode": "lobbybrowserl4d2",
+    "schemaVersion": 1,
+    "slug": "lobbybrowserl4d2",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "lobbybrowserl4d2"
+        },
+        {
+            "name": "Game",
+            "value": "Left 4 Dead 2"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows, Linux"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C++"
+        },
+        {
+            "name": "UI Framework",
+            "value": "Qt 6"
+        }
+    ],
+    "title": "Multiplayer Lobby Search Tool",
+    "type": "Project",
+    "updatedAt": "2026-08-03T11:28:06.457Z"
+}

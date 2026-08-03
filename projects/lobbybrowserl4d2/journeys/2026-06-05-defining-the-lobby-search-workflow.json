@@ -1,0 +1,10 @@
+{
+    "date": "2026-06-05",
+    "id": "3345a00b-580c-4874-ab98-2ba329e5643d",
+    "project": "lobbybrowserl4d2",
+    "schemaVersion": 1,
+    "status": "planning",
+    "summary": "Planning focused on how the tool should search Steam lobbies, apply useful filters and help players find suitable matches without relying only on the in-game browser.",
+    "title": "Defining the Lobby Search Workflow",
+    "updatedAt": "2026-08-03T11:28:06.457Z"
+}
