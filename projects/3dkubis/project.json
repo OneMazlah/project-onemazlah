@@ -1,0 +1,36 @@
+{
+    "category": "Applications",
+    "date": "2026-08-03",
+    "description": "A standalone 3D content creation editor designed as an alternative workspace for modelling and scene editing.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis/journeys",
+    "journeyFiles": [
+        "journeys/2026-06-12-development-begins.json"
+    ],
+    "projectCode": "3dkubis",
+    "schemaVersion": 1,
+    "slug": "3dkubis",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
+    "status": "in-development",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "3dkubis"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C++"
+        },
+        {
+            "name": "Graphics API",
+            "value": "OpenGL, Vulkan"
+        }
+    ],
+    "title": "Standalone 3D Editor",
+    "type": "Project",
+    "updatedAt": "2026-08-03T08:31:22.527Z"
+}
