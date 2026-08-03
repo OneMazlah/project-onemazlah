@@ -55,6 +55,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-06",
+                    "id": "c464980d-ec7b-4f6c-b2aa-e7a0493a0c6d",
+                    "status": "blocked",
+                    "summary": "The project was blocked after several files were unexpectedly deleted. Development had to stop while the missing work was recovered and rewritten.",
+                    "title": "Recovery After File Loss",
+                    "updatedAt": "2026-08-03T09:29:34.154Z"
+                },
+                {
                     "date": "2026-05-30",
                     "id": "6ddbe84f-cc68-4342-a9b1-c6879c4aacea",
                     "status": "maintained",
@@ -75,7 +83,7 @@
             "projectCode": "3d-lite-project",
             "slug": "3d-lite-project",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
-            "status": "maintained",
+            "status": "blocked",
             "tags": [
                 {
                     "name": "Project",
@@ -100,9 +108,9 @@
             ],
             "title": "Lightweight 3D Creation Suite",
             "type": "Project",
-            "updatedAt": "2026-08-03T09:25:26.372Z"
+            "updatedAt": "2026-08-03T09:29:34.154Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:25:27.344Z"
+    "updatedAt": "2026-08-03T09:29:35.095Z"
 }
