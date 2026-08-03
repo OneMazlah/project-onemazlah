@@ -14,7 +14,7 @@
     "schemaVersion": 1,
     "slug": "lobbybrowserl4d2",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
-    "status": "planning",
+    "status": "released",
     "tags": [
         {
             "name": "Project",
@@ -39,5 +39,5 @@
     ],
     "title": "Multiplayer Lobby Search Tool",
     "type": "Project",
-    "updatedAt": "2026-08-03T11:42:57.583Z"
+    "updatedAt": "2026-08-03T11:43:14.627Z"
 }
