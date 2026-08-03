@@ -390,8 +390,45 @@
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
             "updatedAt": "2026-08-03T11:46:50.171Z"
+        },
+        {
+            "category": "Engines",
+            "description": "A project development environment designed to help beginners and experienced developers plan, organize and build software through a clearer visual workflow.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-30",
+                    "id": "83edff9f-5b42-46ad-b2aa-ae2f79b260c9",
+                    "status": "planning",
+                    "summary": "The project began with planning a visual development environment for organizing software projects, managing source structure and making the workflow easier to understand for both beginners and experienced developers.",
+                    "title": "Planning the Visual Development Workflow",
+                    "updatedAt": "2026-08-03T12:12:00.319Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/diamond-project/journeys",
+            "projectCode": "diamond-project",
+            "slug": "diamond-project",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/diamond-project",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "diamond-project"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                }
+            ],
+            "title": "Visual Software Development Engine",
+            "type": "Project",
+            "updatedAt": "2026-08-03T12:12:00.319Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:46:51.154Z"
+    "updatedAt": "2026-08-03T12:12:01.490Z"
 }
