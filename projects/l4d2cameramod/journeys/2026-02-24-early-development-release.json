@@ -3,8 +3,8 @@
     "id": "f3e3e7c9-3db7-4e30-85b3-137d2b3d7cdf",
     "project": "l4d2cameramod",
     "schemaVersion": 1,
-    "status": "released",
+    "status": "maintained",
     "summary": "The first public build was released with fixed camera support for the Left 4 Dead 1 campaigns. Support for Left 4 Dead 2 maps was still incomplete, so this version was marked as an early development build.",
     "title": "Early Development Release",
-    "updatedAt": "2026-08-03T09:48:34.169Z"
+    "updatedAt": "2026-08-03T09:49:21.004Z"
 }

@@ -126,17 +126,17 @@
                 {
                     "date": "2026-02-24",
                     "id": "f3e3e7c9-3db7-4e30-85b3-137d2b3d7cdf",
-                    "status": "released",
+                    "status": "maintained",
                     "summary": "The first public build was released with fixed camera support for the Left 4 Dead 1 campaigns. Support for Left 4 Dead 2 maps was still incomplete, so this version was marked as an early development build.",
                     "title": "Early Development Release",
-                    "updatedAt": "2026-08-03T09:48:34.169Z"
+                    "updatedAt": "2026-08-03T09:49:21.004Z"
                 }
             ],
             "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod/journeys",
             "projectCode": "l4d2cameramod",
             "slug": "l4d2cameramod",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod",
-            "status": "released",
+            "status": "maintained",
             "tags": [
                 {
                     "name": "Project",
@@ -157,9 +157,9 @@
             ],
             "title": "Fixed Camera Perspective Mod",
             "type": "Project",
-            "updatedAt": "2026-08-03T09:48:34.169Z"
+            "updatedAt": "2026-08-03T09:49:21.004Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:48:35.195Z"
+    "updatedAt": "2026-08-03T09:49:21.921Z"
 }
