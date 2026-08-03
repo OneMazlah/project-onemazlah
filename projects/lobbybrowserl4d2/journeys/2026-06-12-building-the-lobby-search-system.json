@@ -1,0 +1,10 @@
+{
+    "date": "2026-06-12",
+    "id": "fcd8caa4-7937-4878-9683-d8723ef4ea30",
+    "project": "lobbybrowserl4d2",
+    "schemaVersion": 1,
+    "status": "in-development",
+    "summary": "Development moved into Steam lobby searching, filters, automatic refresh and the first workflow for joining suitable matches from the desktop application.",
+    "title": "Building the Lobby Search System",
+    "updatedAt": "2026-08-03T11:31:08.667Z"
+}

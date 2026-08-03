@@ -320,6 +320,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-12",
+                    "id": "fcd8caa4-7937-4878-9683-d8723ef4ea30",
+                    "status": "in-development",
+                    "summary": "Development moved into Steam lobby searching, filters, automatic refresh and the first workflow for joining suitable matches from the desktop application.",
+                    "title": "Building the Lobby Search System",
+                    "updatedAt": "2026-08-03T11:31:08.667Z"
+                },
+                {
                     "date": "2026-06-05",
                     "id": "3345a00b-580c-4874-ab98-2ba329e5643d",
                     "status": "planning",
@@ -332,7 +340,7 @@
             "projectCode": "lobbybrowserl4d2",
             "slug": "lobbybrowserl4d2",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
-            "status": "planning",
+            "status": "in-development",
             "tags": [
                 {
                     "name": "Project",
@@ -357,9 +365,9 @@
             ],
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T11:28:06.457Z"
+            "updatedAt": "2026-08-03T11:31:08.667Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:28:07.452Z"
+    "updatedAt": "2026-08-03T11:31:09.674Z"
 }
