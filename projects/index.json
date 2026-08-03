@@ -6,6 +6,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-27",
+                    "id": "d42e6628-8795-4ef3-9993-a32673adc3c2",
+                    "status": "planning",
+                    "summary": "I stopped working on this project because it became too difficult and was no longer worth continuing. At the time, I was still learning how to plan projects.",
+                    "title": "Project Put on Hold",
+                    "updatedAt": "2026-08-03T08:39:42.431Z"
+                },
+                {
                     "date": "2026-06-12",
                     "id": "cd74211f-133a-4b24-95e7-8fbe4263ae5b",
                     "status": "in-development",
@@ -18,7 +26,7 @@
             "projectCode": "3dkubis",
             "slug": "3dkubis",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
-            "status": "in-development",
+            "status": "planning",
             "tags": [
                 {
                     "name": "Project",
@@ -39,9 +47,9 @@
             ],
             "title": "Standalone 3D Editor",
             "type": "Project",
-            "updatedAt": "2026-08-03T08:31:22.527Z"
+            "updatedAt": "2026-08-03T08:39:42.431Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T08:31:23.685Z"
+    "updatedAt": "2026-08-03T08:39:43.340Z"
 }
