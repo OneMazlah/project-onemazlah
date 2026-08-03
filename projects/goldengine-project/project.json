@@ -1,0 +1,36 @@
+{
+    "category": "Engines",
+    "date": "2026-08-03",
+    "description": "A native game engine built to support detailed 3D environments while keeping performance, memory use and hardware requirements under control.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project/journeys",
+    "journeyFiles": [
+        "journeys/2026-04-11-planning-the-engine-foundation.json"
+    ],
+    "projectCode": "goldengine-project",
+    "schemaVersion": 1,
+    "slug": "goldengine-project",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "goldengine-project"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C++"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        },
+        {
+            "name": "Graphics API",
+            "value": "DirectX 12"
+        }
+    ],
+    "title": "Lightweight Windows Game Engine",
+    "type": "Project",
+    "updatedAt": "2026-08-03T10:18:42.326Z"
+}

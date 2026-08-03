@@ -158,8 +158,49 @@
             "title": "Standalone 3D Editor",
             "type": "Project",
             "updatedAt": "2026-08-03T09:53:57.579Z"
+        },
+        {
+            "category": "Engines",
+            "description": "A native game engine built to support detailed 3D environments while keeping performance, memory use and hardware requirements under control.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-04-11",
+                    "id": "78e6ba34-58ce-4192-907b-8e79ffe15e37",
+                    "status": "planning",
+                    "summary": "The project began with planning the core engine structure, rendering architecture, memory systems and development phases before implementation started.",
+                    "title": "Planning the Engine Foundation",
+                    "updatedAt": "2026-08-03T10:18:42.326Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project/journeys",
+            "projectCode": "goldengine-project",
+            "slug": "goldengine-project",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "goldengine-project"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Graphics API",
+                    "value": "DirectX 12"
+                }
+            ],
+            "title": "Lightweight Windows Game Engine",
+            "type": "Project",
+            "updatedAt": "2026-08-03T10:18:42.326Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:53:58.530Z"
+    "updatedAt": "2026-08-03T10:18:43.440Z"
 }
