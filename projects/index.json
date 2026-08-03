@@ -435,6 +435,14 @@
             "journal": [
                 {
                     "date": "2026-08-03",
+                    "id": "171d0549-c776-418d-8986-f99a793e9c76",
+                    "status": "blocked",
+                    "summary": "Development was blocked while the project depended on external Cloudflare services that could not yet be completed or verified. The local dashboard work remained usable, but email replies and production analytics were still unavailable.",
+                    "title": "Cloud Service Integration Blocked",
+                    "updatedAt": "2026-08-03T12:20:18.329Z"
+                },
+                {
+                    "date": "2026-08-03",
                     "id": "eb241b0b-fad5-4e58-8ba8-c6289fdc5346",
                     "status": "in-development",
                     "summary": "Development began with the local project dashboard, Project Journey management, local website preview and the first GitHub publishing workflow.",
@@ -446,7 +454,7 @@
             "projectCode": "webdash-project",
             "slug": "webdash-project",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/webdash-project",
-            "status": "in-development",
+            "status": "blocked",
             "tags": [
                 {
                     "name": "Project",
@@ -467,9 +475,9 @@
             ],
             "title": "Cloud Publishing Dashboard",
             "type": "Project",
-            "updatedAt": "2026-08-03T12:18:47.903Z"
+            "updatedAt": "2026-08-03T12:20:18.329Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T12:18:48.914Z"
+    "updatedAt": "2026-08-03T12:20:19.293Z"
 }
