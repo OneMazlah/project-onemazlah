@@ -6,6 +6,7 @@
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldengine-project/journeys",
     "journeyFiles": [
         "journeys/2026-08-03-building-the-core-systems.json",
+        "journeys/2026-05-03-terminal-only-engine-build.json",
         "journeys/2026-04-11-planning-the-engine-foundation.json"
     ],
     "projectCode": "goldengine-project",
@@ -33,5 +34,5 @@
     ],
     "title": "Lightweight Windows Game Engine",
     "type": "Project",
-    "updatedAt": "2026-08-03T10:23:00.354Z"
+    "updatedAt": "2026-08-03T10:27:32.951Z"
 }

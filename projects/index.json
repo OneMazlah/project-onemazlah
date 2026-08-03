@@ -173,6 +173,14 @@
                     "updatedAt": "2026-08-03T10:23:00.354Z"
                 },
                 {
+                    "date": "2026-05-03",
+                    "id": "0bd3eda2-39b1-4286-86de-3362bb2df5a9",
+                    "status": "in-development",
+                    "summary": "The engine reached a working terminal-based stage without a visual interface. Several core features were still incomplete, and more patches were needed before work could begin on the graphical editor.",
+                    "title": "Terminal-Only Engine Build",
+                    "updatedAt": "2026-08-03T10:27:32.951Z"
+                },
+                {
                     "date": "2026-04-11",
                     "id": "78e6ba34-58ce-4192-907b-8e79ffe15e37",
                     "status": "planning",
@@ -206,9 +214,9 @@
             ],
             "title": "Lightweight Windows Game Engine",
             "type": "Project",
-            "updatedAt": "2026-08-03T10:23:00.354Z"
+            "updatedAt": "2026-08-03T10:27:32.951Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T10:23:01.318Z"
+    "updatedAt": "2026-08-03T10:27:33.935Z"
 }
