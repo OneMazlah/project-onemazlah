@@ -5,14 +5,14 @@
     "featured": false,
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis/journeys",
     "journeyFiles": [
-        "journeys/2026-06-27-project-put-on-hold.json",
-        "journeys/2026-06-12-development-begins.json"
+        "journeys/2026-06-12-development-begins.json",
+        "journeys/2026-04-09-project-put-on-hold.json"
     ],
     "projectCode": "3dkubis",
     "schemaVersion": 1,
     "slug": "3dkubis",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
-    "status": "paused",
+    "status": "in-development",
     "tags": [
         {
             "name": "Project",
@@ -33,5 +33,5 @@
     ],
     "title": "Standalone 3D Editor",
     "type": "Project",
-    "updatedAt": "2026-08-03T08:40:54.913Z"
+    "updatedAt": "2026-08-03T09:34:56.217Z"
 }
