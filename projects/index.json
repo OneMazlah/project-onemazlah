@@ -320,6 +320,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-17",
+                    "id": "b9968075-eec9-4b61-afed-af797f38c02d",
+                    "status": "planning",
+                    "summary": "Version 1.0 reached release-candidate stage, but the official-server filter could still allow some custom servers to appear. Maintenance continued to fix the filtering leak before the stable release.",
+                    "title": "Version 1.0 Release Candidate",
+                    "updatedAt": "2026-08-03T11:35:27.836Z"
+                },
+                {
                     "date": "2026-06-12",
                     "id": "fcd8caa4-7937-4878-9683-d8723ef4ea30",
                     "status": "in-development",
@@ -340,7 +348,7 @@
             "projectCode": "lobbybrowserl4d2",
             "slug": "lobbybrowserl4d2",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
-            "status": "in-development",
+            "status": "planning",
             "tags": [
                 {
                     "name": "Project",
@@ -365,9 +373,9 @@
             ],
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T11:31:08.667Z"
+            "updatedAt": "2026-08-03T11:35:27.836Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:31:09.674Z"
+    "updatedAt": "2026-08-03T11:35:28.893Z"
 }

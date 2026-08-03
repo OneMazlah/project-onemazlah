@@ -5,6 +5,7 @@
     "featured": false,
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2/journeys",
     "journeyFiles": [
+        "journeys/2026-06-17-version-1-0-release-candidate.json",
         "journeys/2026-06-12-building-the-lobby-search-system.json",
         "journeys/2026-06-05-defining-the-lobby-search-workflow.json"
     ],
@@ -12,7 +13,7 @@
     "schemaVersion": 1,
     "slug": "lobbybrowserl4d2",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
-    "status": "in-development",
+    "status": "planning",
     "tags": [
         {
             "name": "Project",
@@ -37,5 +38,5 @@
     ],
     "title": "Multiplayer Lobby Search Tool",
     "type": "Project",
-    "updatedAt": "2026-08-03T11:31:08.667Z"
+    "updatedAt": "2026-08-03T11:35:27.836Z"
 }
