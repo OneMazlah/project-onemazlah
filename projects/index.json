@@ -70,55 +70,6 @@
             "updatedAt": "2026-08-03T09:33:31.087Z"
         },
         {
-            "category": "Applications",
-            "description": "A standalone 3D content creation editor designed as an alternative workspace for modelling and scene editing.",
-            "featured": false,
-            "journal": [
-                {
-                    "date": "2026-04-28",
-                    "id": "cd74211f-133a-4b24-95e7-8fbe4263ae5b",
-                    "status": "in-development",
-                    "summary": "Development started immediately without a formal plan or phased checklist. The initial work focused on creating the editor interface and basic 3D workspace while learning AI-assisted development.",
-                    "title": "Development Begins",
-                    "updatedAt": "2026-08-03T09:35:15.558Z"
-                },
-                {
-                    "date": "2026-04-09",
-                    "id": "d42e6628-8795-4ef3-9993-a32673adc3c2",
-                    "status": "paused",
-                    "summary": "I stopped working on this project because it became too difficult and was no longer worth continuing. At the time, I was still learning how to plan projects.",
-                    "title": "Project Put on Hold",
-                    "updatedAt": "2026-08-03T09:34:56.217Z"
-                }
-            ],
-            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis/journeys",
-            "projectCode": "3dkubis",
-            "slug": "3dkubis",
-            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
-            "status": "in-development",
-            "tags": [
-                {
-                    "name": "Project",
-                    "value": "3dkubis"
-                },
-                {
-                    "name": "Platform",
-                    "value": "Windows"
-                },
-                {
-                    "name": "Programming Language",
-                    "value": "C++"
-                },
-                {
-                    "name": "Graphics API",
-                    "value": "OpenGL, Vulkan"
-                }
-            ],
-            "title": "Standalone 3D Editor",
-            "type": "Project",
-            "updatedAt": "2026-08-03T09:35:15.558Z"
-        },
-        {
             "category": "Mods",
             "description": "A Left 4 Dead 2 mod that replaces the standard camera with fixed scene-based angles inspired by classic survival horror games.",
             "featured": false,
@@ -158,8 +109,57 @@
             "title": "Fixed Camera Perspective Mod",
             "type": "Project",
             "updatedAt": "2026-08-03T09:49:21.004Z"
+        },
+        {
+            "category": "Applications",
+            "description": "A standalone 3D content creation editor designed as an alternative workspace for modelling and scene editing.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-04-28",
+                    "id": "cd74211f-133a-4b24-95e7-8fbe4263ae5b",
+                    "status": "in-development",
+                    "summary": "Development started immediately without a formal plan or phased checklist. The initial work focused on creating the editor interface and basic 3D workspace while learning AI-assisted development.",
+                    "title": "Development Begins",
+                    "updatedAt": "2026-08-03T09:35:15.558Z"
+                },
+                {
+                    "date": "2026-04-09",
+                    "id": "d42e6628-8795-4ef3-9993-a32673adc3c2",
+                    "status": "paused",
+                    "summary": "I stopped working on this project because it became too difficult and was no longer worth continuing. At the time, I was still learning how to plan projects.",
+                    "title": "Project Put on Hold",
+                    "updatedAt": "2026-08-03T09:52:20.500Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis/journeys",
+            "projectCode": "3dkubis",
+            "slug": "3dkubis",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "3dkubis"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "Graphics API",
+                    "value": "OpenGL, Vulkan"
+                }
+            ],
+            "title": "Standalone 3D Editor",
+            "type": "Project",
+            "updatedAt": "2026-08-03T09:52:20.500Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:49:21.921Z"
+    "updatedAt": "2026-08-03T09:52:21.593Z"
 }
