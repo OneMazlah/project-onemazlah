@@ -330,10 +330,10 @@
                 {
                     "date": "2026-06-17",
                     "id": "b9968075-eec9-4b61-afed-af797f38c02d",
-                    "status": "planning",
+                    "status": "maintained",
                     "summary": "Version 1.0 reached release-candidate stage, but the official-server filter could still allow some custom servers to appear. Maintenance continued to fix the filtering leak before the stable release.",
                     "title": "Version 1.0 Release Candidate",
-                    "updatedAt": "2026-08-03T11:35:27.836Z"
+                    "updatedAt": "2026-08-03T11:42:57.583Z"
                 },
                 {
                     "date": "2026-06-12",
@@ -381,9 +381,9 @@
             ],
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T11:41:18.618Z"
+            "updatedAt": "2026-08-03T11:42:57.583Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:41:19.594Z"
+    "updatedAt": "2026-08-03T11:42:58.594Z"
 }
