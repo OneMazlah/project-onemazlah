@@ -1,0 +1,40 @@
+{
+    "category": "Applications",
+    "date": "2026-08-03",
+    "description": "A custom Blender-based desktop application focused on a lighter interface, practical 3D workflows and better usability on modest Windows systems.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project/journeys",
+    "journeyFiles": [
+        "journeys/2026-05-01-first-lightweight-build.json"
+    ],
+    "projectCode": "3d-lite-project",
+    "schemaVersion": 1,
+    "slug": "3d-lite-project",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
+    "status": "in-development",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "3d-lite-project"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows, Linux"
+        },
+        {
+            "name": "Base Software",
+            "value": "Blender 5.1"
+        },
+        {
+            "name": "Scripting Language",
+            "value": "Python"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C, C++"
+        }
+    ],
+    "title": "Lightweight 3D Creation Suite",
+    "type": "Project",
+    "updatedAt": "2026-08-03T09:18:28.659Z"
+}

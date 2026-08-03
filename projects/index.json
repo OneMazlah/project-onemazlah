@@ -48,8 +48,53 @@
             "title": "Standalone 3D Editor",
             "type": "Project",
             "updatedAt": "2026-08-03T08:40:54.913Z"
+        },
+        {
+            "category": "Applications",
+            "description": "A custom Blender-based desktop application focused on a lighter interface, practical 3D workflows and better usability on modest Windows systems.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-05-01",
+                    "id": "0826ef44-6df5-4c34-bd68-1b919d3d861c",
+                    "status": "in-development",
+                    "summary": "I started by removing unnecessary parts of Blender and preparing a lighter base for the custom interface and future 3D workflow changes.",
+                    "title": "First Lightweight Build",
+                    "updatedAt": "2026-08-03T09:18:28.659Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project/journeys",
+            "projectCode": "3d-lite-project",
+            "slug": "3d-lite-project",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "3d-lite-project"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows, Linux"
+                },
+                {
+                    "name": "Base Software",
+                    "value": "Blender 5.1"
+                },
+                {
+                    "name": "Scripting Language",
+                    "value": "Python"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C, C++"
+                }
+            ],
+            "title": "Lightweight 3D Creation Suite",
+            "type": "Project",
+            "updatedAt": "2026-08-03T09:18:28.659Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T08:40:55.850Z"
+    "updatedAt": "2026-08-03T09:18:29.738Z"
 }
