@@ -1,0 +1,10 @@
+{
+    "date": "2026-07-14",
+    "id": "d0a632d5-4d38-4c17-89ed-986a0c66cb24",
+    "project": "lobbybrowserl4d2",
+    "schemaVersion": 1,
+    "status": "maintained",
+    "summary": "Linux support entered beta testing across different desktop environments. Some environments worked correctly, while others still showed bugs that needed further auditing and compatibility fixes.",
+    "title": "Linux Support Audit",
+    "updatedAt": "2026-08-03T11:46:50.171Z"
+}

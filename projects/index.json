@@ -320,6 +320,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-07-14",
+                    "id": "d0a632d5-4d38-4c17-89ed-986a0c66cb24",
+                    "status": "maintained",
+                    "summary": "Linux support entered beta testing across different desktop environments. Some environments worked correctly, while others still showed bugs that needed further auditing and compatibility fixes.",
+                    "title": "Linux Support Audit",
+                    "updatedAt": "2026-08-03T11:46:50.171Z"
+                },
+                {
                     "date": "2026-06-19",
                     "id": "88396a4b-a372-4188-b5c3-b05fb12e61e9",
                     "status": "released",
@@ -356,7 +364,7 @@
             "projectCode": "lobbybrowserl4d2",
             "slug": "lobbybrowserl4d2",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/lobbybrowserl4d2",
-            "status": "released",
+            "status": "maintained",
             "tags": [
                 {
                     "name": "Project",
@@ -381,9 +389,9 @@
             ],
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T11:43:14.627Z"
+            "updatedAt": "2026-08-03T11:46:50.171Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:43:15.964Z"
+    "updatedAt": "2026-08-03T11:46:51.154Z"
 }
