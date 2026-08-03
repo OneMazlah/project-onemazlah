@@ -55,6 +55,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-05-30",
+                    "id": "6ddbe84f-cc68-4342-a9b1-c6879c4aacea",
+                    "status": "maintained",
+                    "summary": "The lightweight build reached its intended scope with a working viewport, Outliner, Properties editor and a small set of essential tools. The project is now kept stable with only necessary fixes and small updates.",
+                    "title": "Minimum Workspace Complete",
+                    "updatedAt": "2026-08-03T09:25:26.372Z"
+                },
+                {
                     "date": "2026-05-01",
                     "id": "0826ef44-6df5-4c34-bd68-1b919d3d861c",
                     "status": "in-development",
@@ -67,7 +75,7 @@
             "projectCode": "3d-lite-project",
             "slug": "3d-lite-project",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
-            "status": "in-development",
+            "status": "maintained",
             "tags": [
                 {
                     "name": "Project",
@@ -92,9 +100,9 @@
             ],
             "title": "Lightweight 3D Creation Suite",
             "type": "Project",
-            "updatedAt": "2026-08-03T09:18:28.659Z"
+            "updatedAt": "2026-08-03T09:25:26.372Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:18:29.738Z"
+    "updatedAt": "2026-08-03T09:25:27.344Z"
 }

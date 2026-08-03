@@ -1,0 +1,10 @@
+{
+    "date": "2026-05-30",
+    "id": "6ddbe84f-cc68-4342-a9b1-c6879c4aacea",
+    "project": "3d-lite-project",
+    "schemaVersion": 1,
+    "status": "maintained",
+    "summary": "The lightweight build reached its intended scope with a working viewport, Outliner, Properties editor and a small set of essential tools. The project is now kept stable with only necessary fixes and small updates.",
+    "title": "Minimum Workspace Complete",
+    "updatedAt": "2026-08-03T09:25:26.372Z"
+}
