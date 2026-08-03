@@ -12,7 +12,7 @@
     "schemaVersion": 1,
     "slug": "3dkubis",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis",
-    "status": "planning",
+    "status": "paused",
     "tags": [
         {
             "name": "Project",
@@ -33,5 +33,5 @@
     ],
     "title": "Standalone 3D Editor",
     "type": "Project",
-    "updatedAt": "2026-08-03T08:39:42.431Z"
+    "updatedAt": "2026-08-03T08:40:54.913Z"
 }
