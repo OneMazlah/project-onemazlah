@@ -55,6 +55,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-10",
+                    "id": "9bd8a0da-1603-4811-8568-4bcf8021ba17",
+                    "status": "maintained",
+                    "summary": "The project entered a maintenance period focused on auditing the current build, finding remaining bugs and applying the necessary patches before release.",
+                    "title": "Release Readiness Review",
+                    "updatedAt": "2026-08-03T09:33:31.087Z"
+                },
+                {
                     "date": "2026-06-06",
                     "id": "c464980d-ec7b-4f6c-b2aa-e7a0493a0c6d",
                     "status": "blocked",
@@ -83,7 +91,7 @@
             "projectCode": "3d-lite-project",
             "slug": "3d-lite-project",
             "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
-            "status": "blocked",
+            "status": "maintained",
             "tags": [
                 {
                     "name": "Project",
@@ -108,9 +116,9 @@
             ],
             "title": "Lightweight 3D Creation Suite",
             "type": "Project",
-            "updatedAt": "2026-08-03T09:29:34.154Z"
+            "updatedAt": "2026-08-03T09:33:31.087Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:29:35.095Z"
+    "updatedAt": "2026-08-03T09:33:32.026Z"
 }

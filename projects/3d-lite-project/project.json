@@ -5,6 +5,7 @@
     "featured": false,
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project/journeys",
     "journeyFiles": [
+        "journeys/2026-06-10-release-readiness-review.json",
         "journeys/2026-06-06-recovery-after-file-loss.json",
         "journeys/2026-05-30-minimum-workspace-complete.json",
         "journeys/2026-05-01-first-lightweight-build.json"
@@ -13,7 +14,7 @@
     "schemaVersion": 1,
     "slug": "3d-lite-project",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3d-lite-project",
-    "status": "blocked",
+    "status": "maintained",
     "tags": [
         {
             "name": "Project",
@@ -38,5 +39,5 @@
     ],
     "title": "Lightweight 3D Creation Suite",
     "type": "Project",
-    "updatedAt": "2026-08-03T09:29:34.154Z"
+    "updatedAt": "2026-08-03T09:33:31.087Z"
 }
