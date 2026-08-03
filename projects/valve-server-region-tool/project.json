@@ -1,0 +1,40 @@
+{
+    "category": "Tools",
+    "date": "2026-08-03",
+    "description": "A Windows desktop tool for testing Valve server latency, comparing regions and generating commands to create Left 4 Dead 2 lobbies on a selected official server.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool/journeys",
+    "journeyFiles": [
+        "journeys/2026-06-18-building-the-server-region-tool.json"
+    ],
+    "projectCode": "valve-server-region-tool",
+    "schemaVersion": 1,
+    "slug": "valve-server-region-tool",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool",
+    "status": "in-development",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "valve-server-region-tool"
+        },
+        {
+            "name": "Game",
+            "value": "Left 4 Dead 2"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C++"
+        },
+        {
+            "name": "UI Framework",
+            "value": "Qt 6"
+        }
+    ],
+    "title": "Valve Server Region Tool",
+    "type": "Project",
+    "updatedAt": "2026-08-03T10:51:39.807Z"
+}

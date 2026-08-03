@@ -1,0 +1,10 @@
+{
+    "date": "2026-06-18",
+    "id": "034112ac-9c4e-4da1-8b0c-1beaaa471f1a",
+    "project": "valve-server-region-tool",
+    "schemaVersion": 1,
+    "status": "in-development",
+    "summary": "Development began with ping testing across Valve server regions, region comparison and the first workflow for selecting a server and preparing a forced lobby command.",
+    "title": "Building the Server Region Tool",
+    "updatedAt": "2026-08-03T10:51:39.807Z"
+}

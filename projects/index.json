@@ -260,8 +260,53 @@
             "title": "Southeast Asian World War II FPS",
             "type": "Project",
             "updatedAt": "2026-08-03T10:39:18.110Z"
+        },
+        {
+            "category": "Tools",
+            "description": "A Windows desktop tool for testing Valve server latency, comparing regions and generating commands to create Left 4 Dead 2 lobbies on a selected official server.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-06-18",
+                    "id": "034112ac-9c4e-4da1-8b0c-1beaaa471f1a",
+                    "status": "in-development",
+                    "summary": "Development began with ping testing across Valve server regions, region comparison and the first workflow for selecting a server and preparing a forced lobby command.",
+                    "title": "Building the Server Region Tool",
+                    "updatedAt": "2026-08-03T10:51:39.807Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool/journeys",
+            "projectCode": "valve-server-region-tool",
+            "slug": "valve-server-region-tool",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/valve-server-region-tool",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "valve-server-region-tool"
+                },
+                {
+                    "name": "Game",
+                    "value": "Left 4 Dead 2"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "UI Framework",
+                    "value": "Qt 6"
+                }
+            ],
+            "title": "Valve Server Region Tool",
+            "type": "Project",
+            "updatedAt": "2026-08-03T10:51:39.807Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T10:39:19.106Z"
+    "updatedAt": "2026-08-03T10:51:40.794Z"
 }
