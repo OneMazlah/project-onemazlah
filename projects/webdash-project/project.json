@@ -1,0 +1,36 @@
+{
+    "category": "Applications",
+    "date": "2026-08-03",
+    "description": "A local desktop dashboard for managing project posts, publishing content to GitHub and Cloudflare Pages, and handling contact messages through Cloudflare Workers and D1.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/webdash-project/journeys",
+    "journeyFiles": [
+        "journeys/2026-08-03-building-the-publishing-workflow.json"
+    ],
+    "projectCode": "webdash-project",
+    "schemaVersion": 1,
+    "slug": "webdash-project",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/webdash-project",
+    "status": "in-development",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "webdash-project"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C++"
+        },
+        {
+            "name": "Cloud Platform",
+            "value": "Cloudflare"
+        }
+    ],
+    "title": "Cloud Publishing Dashboard",
+    "type": "Project",
+    "updatedAt": "2026-08-03T12:18:47.903Z"
+}

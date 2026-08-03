@@ -427,8 +427,49 @@
             "title": "Visual Software Development Engine",
             "type": "Project",
             "updatedAt": "2026-08-03T12:12:00.319Z"
+        },
+        {
+            "category": "Applications",
+            "description": "A local desktop dashboard for managing project posts, publishing content to GitHub and Cloudflare Pages, and handling contact messages through Cloudflare Workers and D1.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-08-03",
+                    "id": "eb241b0b-fad5-4e58-8ba8-c6289fdc5346",
+                    "status": "in-development",
+                    "summary": "Development began with the local project dashboard, Project Journey management, local website preview and the first GitHub publishing workflow.",
+                    "title": "Building the Publishing Workflow",
+                    "updatedAt": "2026-08-03T12:18:47.903Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/webdash-project/journeys",
+            "projectCode": "webdash-project",
+            "slug": "webdash-project",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/webdash-project",
+            "status": "in-development",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "webdash-project"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C++"
+                },
+                {
+                    "name": "Cloud Platform",
+                    "value": "Cloudflare"
+                }
+            ],
+            "title": "Cloud Publishing Dashboard",
+            "type": "Project",
+            "updatedAt": "2026-08-03T12:18:47.903Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T12:12:01.490Z"
+    "updatedAt": "2026-08-03T12:18:48.914Z"
 }
