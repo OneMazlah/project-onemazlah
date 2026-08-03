@@ -320,6 +320,14 @@
             "featured": false,
             "journal": [
                 {
+                    "date": "2026-06-19",
+                    "id": "88396a4b-a372-4188-b5c3-b05fb12e61e9",
+                    "status": "planning",
+                    "summary": "The tool reached a stable public release after the official-server filtering issues were resolved. Future updates will continue improving reliability, search accuracy and usability.",
+                    "title": "Stable Public Release",
+                    "updatedAt": "2026-08-03T11:41:18.618Z"
+                },
+                {
                     "date": "2026-06-17",
                     "id": "b9968075-eec9-4b61-afed-af797f38c02d",
                     "status": "planning",
@@ -373,9 +381,9 @@
             ],
             "title": "Multiplayer Lobby Search Tool",
             "type": "Project",
-            "updatedAt": "2026-08-03T11:35:27.836Z"
+            "updatedAt": "2026-08-03T11:41:18.618Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T11:35:28.893Z"
+    "updatedAt": "2026-08-03T11:41:19.594Z"
 }
