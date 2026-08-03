@@ -126,10 +126,10 @@
                 {
                     "date": "2026-04-09",
                     "id": "d42e6628-8795-4ef3-9993-a32673adc3c2",
-                    "status": "paused",
+                    "status": "planning",
                     "summary": "I stopped working on this project because it became too difficult and was no longer worth continuing. At the time, I was still learning how to plan projects.",
                     "title": "Project Put on Hold",
-                    "updatedAt": "2026-08-03T09:52:20.500Z"
+                    "updatedAt": "2026-08-03T09:53:57.579Z"
                 }
             ],
             "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/3dkubis/journeys",
@@ -157,9 +157,9 @@
             ],
             "title": "Standalone 3D Editor",
             "type": "Project",
-            "updatedAt": "2026-08-03T09:52:20.500Z"
+            "updatedAt": "2026-08-03T09:53:57.579Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:52:21.593Z"
+    "updatedAt": "2026-08-03T09:53:58.530Z"
 }
