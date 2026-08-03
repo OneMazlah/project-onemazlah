@@ -117,8 +117,49 @@
             "title": "Standalone 3D Editor",
             "type": "Project",
             "updatedAt": "2026-08-03T09:35:15.558Z"
+        },
+        {
+            "category": "Mods",
+            "description": "A Left 4 Dead 2 mod that replaces the standard camera with fixed scene-based angles inspired by classic survival horror games.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-02-24",
+                    "id": "f3e3e7c9-3db7-4e30-85b3-137d2b3d7cdf",
+                    "status": "released",
+                    "summary": "The first public build was released with fixed camera support for the Left 4 Dead 1 campaigns. Support for Left 4 Dead 2 maps was still incomplete, so this version was marked as an early development build.",
+                    "title": "Early Development Release",
+                    "updatedAt": "2026-08-03T09:48:34.169Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod/journeys",
+            "projectCode": "l4d2cameramod",
+            "slug": "l4d2cameramod",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod",
+            "status": "released",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "l4d2cameramod"
+                },
+                {
+                    "name": "Game",
+                    "value": "Left 4 Dead 2"
+                },
+                {
+                    "name": "Mod Type",
+                    "value": "Camera Mod"
+                },
+                {
+                    "name": "Scripting System",
+                    "value": "VScript"
+                }
+            ],
+            "title": "Fixed Camera Perspective Mod",
+            "type": "Project",
+            "updatedAt": "2026-08-03T09:48:34.169Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T09:35:16.548Z"
+    "updatedAt": "2026-08-03T09:48:35.195Z"
 }

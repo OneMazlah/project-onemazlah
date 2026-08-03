@@ -1,0 +1,36 @@
+{
+    "category": "Mods",
+    "date": "2026-08-03",
+    "description": "A Left 4 Dead 2 mod that replaces the standard camera with fixed scene-based angles inspired by classic survival horror games.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod/journeys",
+    "journeyFiles": [
+        "journeys/2026-02-24-early-development-release.json"
+    ],
+    "projectCode": "l4d2cameramod",
+    "schemaVersion": 1,
+    "slug": "l4d2cameramod",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/l4d2cameramod",
+    "status": "released",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "l4d2cameramod"
+        },
+        {
+            "name": "Game",
+            "value": "Left 4 Dead 2"
+        },
+        {
+            "name": "Mod Type",
+            "value": "Camera Mod"
+        },
+        {
+            "name": "Scripting System",
+            "value": "VScript"
+        }
+    ],
+    "title": "Fixed Camera Perspective Mod",
+    "type": "Project",
+    "updatedAt": "2026-08-03T09:48:34.169Z"
+}
