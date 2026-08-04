@@ -5,13 +5,14 @@
     "featured": false,
     "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11/journeys",
     "journeyFiles": [
+        "journeys/2026-05-16-building-the-native-viewport-backend.json",
         "journeys/2026-05-15-planning-the-native-graphics-backend.json"
     ],
     "projectCode": "blenderdx11",
     "schemaVersion": 1,
     "slug": "blenderdx11",
     "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11",
-    "status": "planning",
+    "status": "in-development",
     "tags": [
         {
             "name": "Project",
@@ -32,5 +33,5 @@
     ],
     "title": "Native 3D Application Backend",
     "type": "Project",
-    "updatedAt": "2026-08-04T08:28:14.623Z"
+    "updatedAt": "2026-08-04T08:35:05.985Z"
 }

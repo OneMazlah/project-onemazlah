@@ -1,0 +1,10 @@
+{
+    "date": "2026-05-16",
+    "id": "d13fa4ef-e5a3-4a73-bf56-c86456f23435",
+    "project": "blenderdx11",
+    "schemaVersion": 1,
+    "status": "in-development",
+    "summary": "Development moved into adapting Blender’s viewport systems for the new native Windows backend, with early work focused on rendering integration, compatibility and bringing the viewport online.",
+    "title": "Building the Native Viewport Backend",
+    "updatedAt": "2026-08-04T08:35:05.985Z"
+}
