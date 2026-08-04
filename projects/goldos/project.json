@@ -1,0 +1,32 @@
+{
+    "category": "Operating Systems",
+    "date": "2026-08-04",
+    "description": "A custom operating system designed for a dedicated game console, with a simple interface, direct game launching and controlled hardware support.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldos/journeys",
+    "journeyFiles": [
+        "journeys/2026-08-04-defining-the-console-system.json"
+    ],
+    "projectCode": "goldos",
+    "schemaVersion": 1,
+    "slug": "goldos",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldos",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "goldos"
+        },
+        {
+            "name": "Interface",
+            "value": "Game Launcher"
+        },
+        {
+            "name": "Base Distribution",
+            "value": "Arch Linux"
+        }
+    ],
+    "title": "Custom Game Console Operating System",
+    "type": "Project",
+    "updatedAt": "2026-08-04T09:03:14.585Z"
+}

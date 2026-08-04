@@ -574,8 +574,45 @@
             "title": "Wearable AI Assistant",
             "type": "Project",
             "updatedAt": "2026-08-04T08:56:20.551Z"
+        },
+        {
+            "category": "Operating Systems",
+            "description": "A custom operating system designed for a dedicated game console, with a simple interface, direct game launching and controlled hardware support.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-08-04",
+                    "id": "96c0022b-a8d7-4f1b-a391-91abde0656b7",
+                    "status": "planning",
+                    "summary": "Early planning focused on using Arch Linux as the system foundation, designing a controller-friendly interface and deciding how games, updates and hardware support should work on the console.",
+                    "title": "Defining the Console System",
+                    "updatedAt": "2026-08-04T09:03:14.585Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldos/journeys",
+            "projectCode": "goldos",
+            "slug": "goldos",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/goldos",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "goldos"
+                },
+                {
+                    "name": "Interface",
+                    "value": "Game Launcher"
+                },
+                {
+                    "name": "Base Distribution",
+                    "value": "Arch Linux"
+                }
+            ],
+            "title": "Custom Game Console Operating System",
+            "type": "Project",
+            "updatedAt": "2026-08-04T09:03:14.585Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-04T08:56:21.668Z"
+    "updatedAt": "2026-08-04T09:03:15.571Z"
 }

@@ -1,0 +1,10 @@
+{
+    "date": "2026-08-04",
+    "id": "96c0022b-a8d7-4f1b-a391-91abde0656b7",
+    "project": "goldos",
+    "schemaVersion": 1,
+    "status": "planning",
+    "summary": "Early planning focused on using Arch Linux as the system foundation, designing a controller-friendly interface and deciding how games, updates and hardware support should work on the console.",
+    "title": "Defining the Console System",
+    "updatedAt": "2026-08-04T09:03:14.585Z"
+}
