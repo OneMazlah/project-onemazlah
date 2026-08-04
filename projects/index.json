@@ -533,8 +533,49 @@
             "title": "Native 3D Application Backend",
             "type": "Project",
             "updatedAt": "2026-08-04T08:45:27.632Z"
+        },
+        {
+            "category": "Hardware",
+            "description": "A wearable assistant designed to provide hands-free AI interaction, information and practical support during everyday activities.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-07-09",
+                    "id": "47b70775-0477-43bd-bbf1-bf5e210fd8b6",
+                    "status": "planning",
+                    "summary": "The project is still being evaluated to understand its risks, technical difficulty, cost and whether it is practical enough to continue.",
+                    "title": "Evaluating the Project Direction",
+                    "updatedAt": "2026-08-04T08:56:20.551Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ai-project/journeys",
+            "projectCode": "ai-project",
+            "slug": "ai-project",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ai-project",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "ai-project"
+                },
+                {
+                    "name": "Device Type",
+                    "value": "Wearable Technology"
+                },
+                {
+                    "name": "Interface",
+                    "value": "Voice Interaction"
+                },
+                {
+                    "name": "Integration",
+                    "value": "Hardware, Software"
+                }
+            ],
+            "title": "Wearable AI Assistant",
+            "type": "Project",
+            "updatedAt": "2026-08-04T08:56:20.551Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-04T08:45:28.598Z"
+    "updatedAt": "2026-08-04T08:56:21.668Z"
 }

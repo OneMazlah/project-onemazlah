@@ -1,0 +1,36 @@
+{
+    "category": "Hardware",
+    "date": "2026-08-04",
+    "description": "A wearable assistant designed to provide hands-free AI interaction, information and practical support during everyday activities.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ai-project/journeys",
+    "journeyFiles": [
+        "journeys/2026-07-09-evaluating-the-project-direction.json"
+    ],
+    "projectCode": "ai-project",
+    "schemaVersion": 1,
+    "slug": "ai-project",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/ai-project",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "ai-project"
+        },
+        {
+            "name": "Device Type",
+            "value": "Wearable Technology"
+        },
+        {
+            "name": "Interface",
+            "value": "Voice Interaction"
+        },
+        {
+            "name": "Integration",
+            "value": "Hardware, Software"
+        }
+    ],
+    "title": "Wearable AI Assistant",
+    "type": "Project",
+    "updatedAt": "2026-08-04T08:56:20.551Z"
+}
