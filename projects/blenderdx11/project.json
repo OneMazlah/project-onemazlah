@@ -1,0 +1,36 @@
+{
+    "category": "Applications",
+    "date": "2026-08-04",
+    "description": "A custom Blender-based project focused on building a native Windows graphics backend and improving viewport compatibility, performance and long-term platform support.",
+    "featured": false,
+    "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11/journeys",
+    "journeyFiles": [
+        "journeys/2026-05-15-planning-the-native-graphics-backend.json"
+    ],
+    "projectCode": "blenderdx11",
+    "schemaVersion": 1,
+    "slug": "blenderdx11",
+    "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11",
+    "status": "planning",
+    "tags": [
+        {
+            "name": "Project",
+            "value": "blenderdx11"
+        },
+        {
+            "name": "Base Software",
+            "value": "Blender"
+        },
+        {
+            "name": "Platform",
+            "value": "Windows"
+        },
+        {
+            "name": "Programming Language",
+            "value": "C, C++"
+        }
+    ],
+    "title": "Native 3D Application Backend",
+    "type": "Project",
+    "updatedAt": "2026-08-04T08:28:14.623Z"
+}

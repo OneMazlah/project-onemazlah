@@ -476,8 +476,49 @@
             "title": "Cloud Publishing Dashboard",
             "type": "Project",
             "updatedAt": "2026-08-03T12:20:18.329Z"
+        },
+        {
+            "category": "Applications",
+            "description": "A custom Blender-based project focused on building a native Windows graphics backend and improving viewport compatibility, performance and long-term platform support.",
+            "featured": false,
+            "journal": [
+                {
+                    "date": "2026-05-15",
+                    "id": "c2c08db9-f1f2-4d58-96d2-372022714a9c",
+                    "status": "planning",
+                    "summary": "The project began with planning a native Windows graphics backend, defining the viewport architecture and identifying the Blender systems that would need adaptation before implementation.",
+                    "title": "Planning the Native Graphics Backend",
+                    "updatedAt": "2026-08-04T08:28:14.623Z"
+                }
+            ],
+            "journalRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11/journeys",
+            "projectCode": "blenderdx11",
+            "slug": "blenderdx11",
+            "sourceRepositoryUrl": "https://github.com/OneMazlah/project-onemazlah/tree/main/projects/blenderdx11",
+            "status": "planning",
+            "tags": [
+                {
+                    "name": "Project",
+                    "value": "blenderdx11"
+                },
+                {
+                    "name": "Base Software",
+                    "value": "Blender"
+                },
+                {
+                    "name": "Platform",
+                    "value": "Windows"
+                },
+                {
+                    "name": "Programming Language",
+                    "value": "C, C++"
+                }
+            ],
+            "title": "Native 3D Application Backend",
+            "type": "Project",
+            "updatedAt": "2026-08-04T08:28:14.623Z"
         }
     ],
     "schemaVersion": 1,
-    "updatedAt": "2026-08-03T12:20:19.293Z"
+    "updatedAt": "2026-08-04T08:28:15.702Z"
 }
